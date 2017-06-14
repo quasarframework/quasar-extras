@@ -6,6 +6,10 @@
 
 # Quasar Framework Extras
 
+<a href="https://badge.fury.io/js/quasar-framework" target="_blank"><img src="https://badge.fury.io/js/quasar-extras.svg"></a>
+[![Join the chat at https://gitter.im/quasarframework/Lobby](https://badges.gitter.im/quasarframework/Lobby.svg)](https://gitter.im/quasarframework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<a href="http://forum.quasar-framework.org" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
+
 | Package | Version | Description |
 | --- | --- | --- |
 | Roboto Font | 0.7.0 | Default recommended font when building with Material theme |
@@ -32,8 +36,8 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 Head on to the official community forum: [http://forum.quasar-framework.org](http://forum.quasar-framework.org)
 
 ## Semver
-Until Quasar reaches a 1.0 release (soon), breaking changes will be released with a new minor version. For example 0.8.1, and 0.8.4 will have the same API, but 0.9.0 will have breaking changes.
+Using [semver 2.0](http://semver.org/) notation for 'quasar-extras' package.
 
 ## License
 
-All font icons are property of their respective owners.
+All assets included in this repository are exclusive property of their respective owners. Quasar does not take any credit in packages included here.

@@ -6,7 +6,7 @@
 
 # Quasar Framework Extras
 
-<a href="https://badge.fury.io/js/quasar-framework" target="_blank"><img src="https://badge.fury.io/js/quasar-extras.svg"></a>
+<a href="https://badge.fury.io/js/quasar-extras" target="_blank"><img src="https://badge.fury.io/js/quasar-extras.svg"></a>
 [![Join the chat at https://gitter.im/quasarframework/Lobby](https://badges.gitter.im/quasarframework/Lobby.svg)](https://gitter.im/quasarframework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <a href="http://forum.quasar-framework.org" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
 

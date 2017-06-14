@@ -27,7 +27,3 @@
   font-weight: 700;
   src: url('./Roboto-Bold.woff') format('woff');
 }
-
-body {
-  font-family: 'Roboto' !important;
-}

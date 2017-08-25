@@ -2,7 +2,7 @@
 
 ## Quasar Framework
 
-> Build responsive websites, hybrid mobile Apps (that look native!) and Electron apps using same code, with VueJs 2.
+> Build responsive websites, PWAs, hybrid mobile Apps (that look native!) and Electron apps using same code, powered with Vue.
 
 # Quasar Framework Extras
 

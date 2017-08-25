@@ -18,8 +18,6 @@
 | Ionicons | 2.0.1 | Ionicons font |
 | Animate.css | 3.5.2 | Bundle of animations you can use in your website/app |
 
-I18n package is in the works too.
-
 ## Supporting Quasar
 Quasar Framework is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/rstoenescu/quasar-framework/blob/dev/backers.md). If you'd like to join them, check out [Quasar Framework's Patreon campaign](https://www.patreon.com/quasarframework).
 

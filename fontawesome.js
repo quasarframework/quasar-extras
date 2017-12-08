@@ -1,1 +1,1 @@
-require('./fontawesome/fontawesome.css')
+require('./fontawesome/fontawesome-all.css')

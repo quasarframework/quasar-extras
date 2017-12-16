@@ -18,5 +18,8 @@
   "homepage": "https://github.com/quasarframework/quasar-extras#readme",
   "peerDependencies": {
     "quasar-framework": ">= 0.14.0"
+  },
+  "dependencies": {
+    "mdi": "^2.0.46"
   }
 }

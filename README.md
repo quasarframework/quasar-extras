@@ -17,6 +17,7 @@
 | Material Design Icons (mdi) | 2.0.46 | Extended Material Design icons font |
 | Font Awesome | 4.7.0 | Fontawesome icons font |
 | Ionicons | 2.0.1 | Ionicons font |
+| Material Design Icons | ^2.0.46 | Material design icons font |
 | Animate.css | 3.5.2 | Bundle of animations you can use in your website/app |
 
 ## Supporting Quasar

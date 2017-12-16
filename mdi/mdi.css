@@ -3,7 +3,7 @@
   font-family: "Material Design Icons";
   font-weight: normal;
   font-style: normal;
-  src: url("./materialdesignicons-webfont.woff") format("woff");
+  src: url("./mdi.woff") format("woff");
 }
 .mdi:before,
 .mdi-set {

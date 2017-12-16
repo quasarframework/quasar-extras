@@ -13,11 +13,11 @@
 | Package | Version | Description |
 | --- | --- | --- |
 | Roboto Font | 0.7.0 | Default recommended font when building with Material theme |
-| Material Icons | 3.0.1 | Material icons font |
-| MDI (Material Design Icons) | 2.1.19 | Extended Material Design icons font |
-| Font Awesome | 4.7.0 | Fontawesome icons font |
-| Ionicons | 2.0.1 | Ionicons font |
-| Animate.css | 3.5.2 | Bundle of animations you can use in your website/app |
+| [Material Icons](https://material.io/icons/) | 3.0.1 | Material icons font |
+| [MDI](https://materialdesignicons.com/) (Material Design Icons) | 2.1.19 | Extended Material Design icons font |
+| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.0.0 | Fontawesome icons font |
+| [Ionicons](http://ionicons.com/) | 2.0.1 | Ionicons font |
+| [Animate.css](https://daneden.github.io/animate.css/) | 3.5.2 | Bundle of animations you can use in your website/app |
 
 ## Supporting Quasar
 Quasar Framework is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/rstoenescu/quasar-framework/blob/dev/backers.md). If you'd like to join them, check out [Quasar Framework's Patreon campaign](https://www.patreon.com/quasarframework).

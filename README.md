@@ -15,7 +15,7 @@
 | Roboto Font | 0.7.0 | Default recommended font when building with Material theme |
 | [Material Icons](https://material.io/icons/) | 3.0.1 | Material icons font |
 | [MDI](https://materialdesignicons.com/) (Material Design Icons) | 2.1.19 | Extended Material Design icons font |
-| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.0.0 | Fontawesome icons font |
+| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.0.1 | Fontawesome icons font |
 | [Ionicons](http://ionicons.com/) | 2.0.1 | Ionicons font |
 | [Animate.css](https://daneden.github.io/animate.css/) | 3.5.2 | Bundle of animations you can use in your website/app |
 

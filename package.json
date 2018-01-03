@@ -1,6 +1,6 @@
 {
   "name": "quasar-extras",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quasar Framework fonts, icons and i18n.",
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/quasarframework/quasar-extras/issues"
   },
-  "homepage": "https://github.com/quasarframework/quasar-extras#readme",
-  "peerDependencies": {
-    "quasar-framework": ">= 0.14.0"
-  }
+  "homepage": "https://github.com/quasarframework/quasar-extras#readme"
 }

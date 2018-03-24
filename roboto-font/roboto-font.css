@@ -2,35 +2,35 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 100;
-  src: url(./web-font/KFOkCnqEu92Fr1MmgVxIIzQ.woff) format('woff');
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(./web-font/KFOkCnqEu92Fr1MmgVxIIzQ.woff) format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
-  src: url(./web-font/KFOlCnqEu92Fr1MmSU5fBBc-.woff) format('woff');
+  src: local('Roboto Light'), local('Roboto-Light'), url(./web-font/KFOlCnqEu92Fr1MmSU5fBBc-.woff) format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: url(./web-font/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
+  src: local('Roboto'), local('Roboto Regular'), local('Roboto-Regular'),  url(./web-font/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
-  src: url(./web-font/KFOlCnqEu92Fr1MmEU9fBBc-.woff) format('woff');
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(./web-font/KFOlCnqEu92Fr1MmEU9fBBc-.woff) format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  src: url(./web-font/KFOlCnqEu92Fr1MmWUlfBBc-.woff) format('woff');
+  src: local('Roboto Bold'), local('Roboto-Bold'),  url(./web-font/KFOlCnqEu92Fr1MmWUlfBBc-.woff) format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 900;
-  src: url(./web-font/KFOlCnqEu92Fr1MmYUtfBBc-.woff) format('woff');
+  src: local('Roboto Black'), local('Roboto-Black'), url(./web-font/KFOlCnqEu92Fr1MmYUtfBBc-.woff) format('woff');
 }

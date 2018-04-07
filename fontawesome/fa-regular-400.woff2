@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Font-Awesome/fa-brands-400.woff at master · FortAwesome/Font-Awesome</title>
+  <title>Font-Awesome/fa-regular-400.woff2 at master · FortAwesome/Font-Awesome</title>
     <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1505683?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="FortAwesome/Font-Awesome" /><meta property="og:url" content="https://github.com/FortAwesome/Font-Awesome" /><meta property="og:description" content="Font-Awesome - The iconic SVG, font, and CSS toolkit" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjUyMTI2MDk4OmIyMzA4NTZhZDU1M2ExOThkNmVkYThiNDdhMzgwNDhlOGE5ZWJhNjhhMWQ0YzViZjAxMTJhMDA1NmJhY2Y0MGI=--4a60f524e28b7d464a9af5d9e6df47352055fafd">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjUyMTI2MDk4OmU2MzEzY2U3YTA4MDMyMGQ5MGVmYWRmNmY1MTBiZmM0MDU4NWRhN2NkMmM5ZjIxY2IwYjcyM2U4N2JjMjQ4Y2I=--3a541f2da29b5987b6aa8a4c5527e8bc0cdaf373">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="DE7F:3C64:804624:DEF5A0:5AC8C48C" data-pjax-transient>
+  <meta name="request-id" content="DE7F:3C64:805BC5:DF1854:5AC8C4B1" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DE7F:3C64:804624:DEF5A0:5AC8C48C" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="4088662" /><meta name="octolytics-actor-login" content="salsa2k" /><meta name="octolytics-actor-hash" content="4aaeafac2e7b33b4319a35429ce01f30a00b9ab74ef7d32ac969404a90d9b031" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DE7F:3C64:805BC5:DF1854:5AC8C4B1" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="4088662" /><meta name="octolytics-actor-login" content="salsa2k" /><meta name="octolytics-actor-hash" content="4aaeafac2e7b33b4319a35429ce01f30a00b9ab74ef7d32ac969404a90d9b031" />
 <meta name="hydro-events-url" content="https://github.com/hydro_browser_events" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="salsa2k">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MjI4OTM0M2Y2NDFkNjJhNWFmOTg1NzYwOGI1Y2JhYzFmMmQyODM1NjBiNmM0YjQ5MTAwMGY5ZGI0MTQyM2QwYXx7InJlbW90ZV9hZGRyZXNzIjoiNjcuNzEuMTA4LjE5MiIsInJlcXVlc3RfaWQiOiJERTdGOjNDNjQ6ODA0NjI0OkRFRjVBMDo1QUM4QzQ4QyIsInRpbWVzdGFtcCI6MTUyMzEwNjk2MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MDQzZGViYmRlOTVhM2MwMTVkY2VlNGQ1NmFmMGJlZTEzOGE2MmJiOTc2ODYzMGVjMzYzMWRkMjIyMzBmZGM4N3x7InJlbW90ZV9hZGRyZXNzIjoiNjcuNzEuMTA4LjE5MiIsInJlcXVlc3RfaWQiOiJERTdGOjNDNjQ6ODA1QkM1OkRGMTg1NDo1QUM4QzRCMSIsInRpbWVzdGFtcCI6MTUyMzEwNzAwMywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -85,7 +85,7 @@
   <meta name="octolytics-dimension-user_id" content="1505683" /><meta name="octolytics-dimension-user_login" content="FortAwesome" /><meta name="octolytics-dimension-repository_id" content="3470471" /><meta name="octolytics-dimension-repository_nwo" content="FortAwesome/Font-Awesome" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="3470471" /><meta name="octolytics-dimension-repository_network_root_nwo" content="FortAwesome/Font-Awesome" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-brands-400.woff" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-regular-400.woff2" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -136,7 +136,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/FortAwesome/Font-Awesome/search" data-unscoped-search-url="/search" action="/FortAwesome/Font-Awesome/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
     <label class="form-control header-search-wrapper  js-chromeless-input-container">
-        <a class="header-search-scope no-underline" href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-brands-400.woff">This repository</a>
+        <a class="header-search-scope no-underline" href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-regular-400.woff2">This repository</a>
       <input type="text"
         class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s,/"
@@ -263,7 +263,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PALD3H615Cjb0AeV53r6vYw91/U2cUU5UA6sxdtPxqbiuW72LSyanh+oQ2oL/t2LxZ8cN+a1Riia2JmDoD48Lg==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IQb1otxroYNBcCqszg/WhmI2ab60e7FTWG4muW8+v7//vViIj/LfNYUIblMii/GwK5SifGS/skKSuBP/FE9FNw==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -275,7 +275,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BHFmXtbLkvIvz5khdgK1zGbJz3Bj7BGBYayMLPYO5Lzayst0hVLsROu33d6ahpL6L2sEsrMoEpCrerlqjX8eNA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AK3Tr36CTCKQlu/7aoqErX4In+lwu0f5R+H6Kx6V6rLeFn6FLRsylFTuqwSGDqObN6pUK6B/ROiNN89tZeQQOg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -313,7 +313,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OgaETyEMCZMfuv+/9bVQGFvSSdhQM//rHlloPqlHdxaAuYkrpFN1ksJdKO7UZjGbLkDhXPfrvLgEwcLHDH5+RA==" />      <input type="hidden" name="repository_id" id="repository_id" value="3470471" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yH3WOuxs389FSre7pwxaAfNK6VZK4gPycd2uaP74uHFywtteaTOjzpitYOqG3zuChthB0u06QKFrRQSRW8GxIw==" />      <input type="hidden" name="repository_id" id="repository_id" value="3470471" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/FortAwesome/Font-Awesome/subscription"
@@ -393,7 +393,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/FortAwesome/Font-Awesome/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9ZmsYTexmdTYkESyY1ATJbXFwAHzpPx1d097HOhlqxGY91OjiQR/aoowCgLGLPrgdQGZpUd+FO1NKk9vrEfzlA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/FortAwesome/Font-Awesome/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RhQZHctdXeb5N1yBot/o8Ro2vFZA/M3805xU60jiUP4reubfdei7WKuXEjEHowE02vLl8vQmJWTp+WCYDMAIew==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -408,7 +408,7 @@
           55,702
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/FortAwesome/Font-Awesome/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RHDHadBG+9sPUqS6bWTz2VmmMnGWd6rqCcrumLwOTCbgxXlAeqlfIZJ13cLs4Ru5yw6JBMIAHHzd4CsHgP0G9A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/FortAwesome/Font-Awesome/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EGAb9JM75jOk/v6XspD07Z0YQAwdY5H4pAp6Mph/+BO01aXdOdRCyTnZh+8zFRyND7D7eUkUJ25wIL+tpIyywQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -515,9 +515,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/FortAwesome/Font-Awesome/blob/864e2422319243c59f45752623d1e2490557eb67/web-fonts-with-css/webfonts/fa-brands-400.woff">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/FortAwesome/Font-Awesome/blob/864e2422319243c59f45752623d1e2490557eb67/web-fonts-with-css/webfonts/fa-regular-400.woff2">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:ee85f85940ce55674af30bc4af9afa6d -->
+  <!-- blob contrib key: blob_contributors:v21:907f22ed1413586837f1a39d1ccbe260 -->
 
   <div class="file-navigation">
     
@@ -559,7 +559,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/FortAwesome/Font-Awesome/blob/archive-doc-transfer/web-fonts-with-css/webfonts/fa-brands-400.woff"
+               href="/FortAwesome/Font-Awesome/blob/archive-doc-transfer/web-fonts-with-css/webfonts/fa-regular-400.woff2"
                data-name="archive-doc-transfer"
                data-skip-pjax="true"
                rel="nofollow">
@@ -569,7 +569,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/FortAwesome/Font-Awesome/blob/fa-4/web-fonts-with-css/webfonts/fa-brands-400.woff"
+               href="/FortAwesome/Font-Awesome/blob/fa-4/web-fonts-with-css/webfonts/fa-regular-400.woff2"
                data-name="fa-4"
                data-skip-pjax="true"
                rel="nofollow">
@@ -579,7 +579,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/FortAwesome/Font-Awesome/blob/gh-pages/web-fonts-with-css/webfonts/fa-brands-400.woff"
+               href="/FortAwesome/Font-Awesome/blob/gh-pages/web-fonts-with-css/webfonts/fa-regular-400.woff2"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -589,7 +589,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-brands-400.woff"
+               href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-regular-400.woff2"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -599,7 +599,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/FortAwesome/Font-Awesome/blob/upgrading-to-5.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+               href="/FortAwesome/Font-Awesome/blob/upgrading-to-5.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
                data-name="upgrading-to-5.1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -618,7 +618,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.7.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.7.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.7.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -628,7 +628,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.6.3/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.6.3/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.6.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -638,7 +638,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.6.2/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.6.2/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.6.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -648,7 +648,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.6.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.6.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.6.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -658,7 +658,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.6.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.6.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.6.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -668,7 +668,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.5.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.5.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.5.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -678,7 +678,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.4.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.4.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.4.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -688,7 +688,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.3.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.3.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.3.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -698,7 +698,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.2.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.2.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -708,7 +708,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.1.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.1.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -718,7 +718,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.0.3/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.0.3/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.0.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -728,7 +728,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.0.2/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.0.2/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.0.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -738,7 +738,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.0.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.0.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -748,7 +748,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v4.0.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v4.0.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v4.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -758,7 +758,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.2.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.2.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -768,7 +768,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.2.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.2.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.2.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -778,7 +778,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.1.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.1.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.1.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -788,7 +788,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.1.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.1.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -798,7 +798,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.0.2/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.0.2/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.0.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -808,7 +808,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.0.1/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.0.1/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.0.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -818,7 +818,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v3.0.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v3.0.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v3.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -828,7 +828,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/v1.0.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/v1.0.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="v1.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -838,7 +838,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/5.0.9/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/5.0.9/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="5.0.9"
               data-skip-pjax="true"
               rel="nofollow">
@@ -848,7 +848,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/5.0.8/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/5.0.8/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="5.0.8"
               data-skip-pjax="true"
               rel="nofollow">
@@ -858,7 +858,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/5.0.7/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/5.0.7/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="5.0.7"
               data-skip-pjax="true"
               rel="nofollow">
@@ -868,7 +868,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/5.0.6/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/5.0.6/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="5.0.6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -878,7 +878,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/4.1.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/4.1.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="4.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -888,7 +888,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/FortAwesome/Font-Awesome/tree/2.0.0/web-fonts-with-css/webfonts/fa-brands-400.woff"
+              href="/FortAwesome/Font-Awesome/tree/2.0.0/web-fonts-with-css/webfonts/fa-regular-400.woff2"
               data-name="2.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -922,12 +922,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome"><span>Font-Awesome</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome/tree/master/web-fonts-with-css"><span>web-fonts-with-css</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome/tree/master/web-fonts-with-css/webfonts"><span>webfonts</span></a></span><span class="separator">/</span><strong class="final-path">fa-brands-400.woff</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome"><span>Font-Awesome</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome/tree/master/web-fonts-with-css"><span>web-fonts-with-css</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/FortAwesome/Font-Awesome/tree/master/web-fonts-with-css/webfonts"><span>webfonts</span></a></span><span class="separator">/</span><strong class="final-path">fa-regular-400.woff2</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/FortAwesome/Font-Awesome/contributors/master/web-fonts-with-css/webfonts/fa-brands-400.woff" class="commit-tease">
+  <include-fragment src="/FortAwesome/Font-Awesome/contributors/master/web-fonts-with-css/webfonts/fa-regular-400.woff2" class="commit-tease">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -943,8 +943,8 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/FortAwesome/Font-Awesome/raw/master/web-fonts-with-css/webfonts/fa-brands-400.woff">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/FortAwesome/Font-Awesome/commits/master/web-fonts-with-css/webfonts/fa-brands-400.woff">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/FortAwesome/Font-Awesome/raw/master/web-fonts-with-css/webfonts/fa-regular-400.woff2">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/FortAwesome/Font-Awesome/commits/master/web-fonts-with-css/webfonts/fa-regular-400.woff2">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -954,7 +954,7 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/FortAwesome/Font-Awesome/delete/master/web-fonts-with-css/webfonts/fa-brands-400.woff" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EzurtrFNaQIDGWwTpVbVMhjKW3O4kLlbASGos87zf2u4RItsZrDKI8Gt7FD787/y1oMt6HI+bHsHozSRAhBE5g==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/FortAwesome/Font-Awesome/delete/master/web-fonts-with-css/webfonts/fa-regular-400.woff2" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mURZrUfS+HlbfVud227MTF+KOLFHD1/Jw2P0uCcH0ks0Q8OCb36ZIDxbxugQaz11wHqnxLpe3BqSkvWaNE8Dww==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -962,7 +962,7 @@
 </form>  </div>
 
   <div class="file-info">
-    62.4 KB
+    11.9 KB
   </div>
 </div>
 
@@ -970,7 +970,7 @@
 
   <div itemprop="text" class="blob-wrapper data type-text">
       <div class="image">
-          <a href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-brands-400.woff?raw=true">View Raw</a>
+          <a href="/FortAwesome/Font-Awesome/blob/master/web-fonts-with-css/webfonts/fa-regular-400.woff2?raw=true">View Raw</a>
       </div>
   </div>
 
@@ -997,7 +997,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.24855s from unicorn-2495097209-d62xv">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.30552s from unicorn-2094213503-gqp28">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>

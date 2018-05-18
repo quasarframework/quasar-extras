@@ -12,11 +12,11 @@
 
 | Package | Version | Description |
 | --- | --- | --- |
-| Roboto Font | 0.7.0 | Default recommended font when building with Material theme |
-| [Material Icons](https://material.io/icons/) | 3.0.1 | Material icons font |
+| Roboto Font | CDN v18 | Default recommended font when building with Material theme |
+| [Material Icons](https://material.io/icons/) | CDN v37 | Material icons font |
 | [MDI](https://materialdesignicons.com/) (Material Design Icons) | 2.3.54 | Extended Material Design icons font |
-| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.0.10 | Fontawesome icons font |
-| [Ionicons](http://ionicons.com/) | 2.0.1 | Ionicons font |
+| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.0.13 | Fontawesome icons font |
+| [Ionicons](http://ionicons.com/) | 4.1.1 | Ionicons font |
 | [Animate.css](https://daneden.github.io/animate.css/) | 3.5.2 | Bundle of animations you can use in your website/app |
 
 Why this package? Because it strips down unnecessary package files (so faster download times), all in one place, tested and ready to use with Quasar. One other reason is that the material icons npm package sometimes fails to be downloaded by NPM.

@@ -16,7 +16,7 @@
 | [Material Icons](https://material.io/icons/) | CDN v37 | Material icons font |
 | [MDI](https://materialdesignicons.com/) (Material Design Icons) | 2.4.85 | Extended Material Design icons font |
 | [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.1.0 | Fontawesome icons font |
-| [Ionicons](http://ionicons.com/) | 4.1.1 | Ionicons font |
+| [Ionicons](http://ionicons.com/) | 4.2.4 | Ionicons font |
 | [Animate.css](https://daneden.github.io/animate.css/) | 3.5.2 | Bundle of animations you can use in your website/app |
 
 Why this package? Because it strips down unnecessary package files (so faster download times), all in one place, tested and ready to use with Quasar. One other reason is that the material icons npm package sometimes fails to be downloaded by NPM.

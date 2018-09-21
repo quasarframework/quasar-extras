@@ -10,14 +10,15 @@
 [![Join the chat at https://discord.gg/5TDhbDg](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/5TDhbDg)
 <a href="http://forum.quasar-framework.org" target="_blank"><img src="https://img.shields.io/badge/community-forum-brightgreen.svg"></a>
 
-| Package | Version | Description |
-| --- | --- | --- |
-| Roboto Font | CDN v18 | Default recommended font when building with Material theme |
-| [Material Icons](https://material.io/icons/) | CDN v41 | Material icons font |
-| [MDI](https://materialdesignicons.com/) (Material Design Icons) | 2.6.95 | Extended Material Design icons font |
-| [Font Awesome](https://fontawesome.com/icons?d=gallery) | 5.2.0 | Fontawesome icons font |
-| [Ionicons](http://ionicons.com/) | 4.2.4 | Ionicons font |
-| [Animate.css](https://daneden.github.io/animate.css/) | 3.5.2 | Bundle of animations you can use in your website/app |
+| Package | quasar.conf.js extras name | Version | Description |
+| --- | --- | --- | --- |
+| Roboto Font | `roboto-font` | CDN v18 | Recommended font along Material theme |
+| Roboto Font Latin Extended | `roboto-font-latin-ext` | CDN v18 | Recommended font along Material theme |
+| [Material Icons](https://material.io/icons/) | `material-icons` | CDN v41 | Material icons font |
+| [MDI](https://materialdesignicons.com/) (Material Design Icons) | `mdi` | 2.6.95 | Extended Material Design icons font |
+| [Font Awesome](https://fontawesome.com/icons?d=gallery) | `fontawesome` | 5.2.0 | Fontawesome icons font |
+| [Ionicons](http://ionicons.com/) | `ionicons` | 4.2.4 | Ionicons font |
+| [Animate.css](https://daneden.github.io/animate.css/) | Use `animations` prop | 3.5.2 | Bundle of animations you can use in your website/app |
 
 Why this package? Because it strips down unnecessary package files (so faster download times), all in one place, tested and ready to use with Quasar. One other reason is that the material icons npm package sometimes fails to be downloaded by NPM.
 
@@ -26,7 +27,7 @@ Quasar Framework is an MIT-licensed open source project. Its ongoing development
 
 ## Documentation
 
-Head on to the Quasar Framework official website: [http://quasar-framework.org](http://quasar-framework.org)
+Head on to the Quasar Framework official website: [https://quasar-framework.org](http://quasar-framework.org)
 
 ## Stay in Touch
 
@@ -34,7 +35,7 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 
 ## Community Forum
 
-Head on to the official community forum: [http://forum.quasar-framework.org](http://forum.quasar-framework.org)
+Head on to the official community forum: [http://forum.quasar-framework.org](https://forum.quasar-framework.org)
 
 ## Semver
 Using [semver 2.0](http://semver.org/) notation for 'quasar-extras' package.

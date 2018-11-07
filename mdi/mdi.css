@@ -1,4 +1,4 @@
-/* MaterialDesignIcons.com */
+/* MaterialDesignIcons.com 3.0.39 */
 @font-face {
   font-family: "Material Design Icons";
   src: url("./mdi.woff2") format("woff2"), url("./mdi.woff") format("woff");
@@ -12414,5 +12414,3 @@
     transform: rotate(359deg);
   }
 }
-
-/*# sourceMappingURL=materialdesignicons.css.map */

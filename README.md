@@ -15,7 +15,7 @@
 | Roboto Font | `roboto-font` | CDN v18 | Recommended font along Material theme |
 | Roboto Font Latin Extended | `roboto-font-latin-ext` | CDN v18 | Recommended font along Material theme |
 | [Material Icons](https://material.io/icons/) | `material-icons` | CDN v41 | Material icons font |
-| [MDI](https://materialdesignicons.com/) (Material Design Icons) | `mdi` | 2.8.94 | Extended Material Design icons font |
+| [MDI](https://materialdesignicons.com/) (Material Design Icons) | `mdi` | 3.0.39 | Extended Material Design icons font |
 | [Font Awesome](https://fontawesome.com/icons?d=gallery) | `fontawesome` | 5.5.0 | Fontawesome icons font |
 | [Ionicons](http://ionicons.com/) | `ionicons` | 4.4.5 | Ionicons font |
 | [Animate.css](https://daneden.github.io/animate.css/) | Use `animations` prop | 3.5.2 | Bundle of animations you can use in your website/app |
